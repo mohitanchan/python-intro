@@ -12,7 +12,6 @@
 	- Dynamically typed language
 	- Everything is an object
 	- Two versions are maintained and developed (2.x & 3.x)
-	- Why us Python
 
 ###### 2. Datatypes
 	- int/float. a=5; a.__str__(); (everthing is an object)
@@ -28,10 +27,8 @@
 ######  6. Decorators
 ######  7. Class
 	- init function
-	- new function
 	- types of methods
-	- R&D on private variables
 	- Importing class/method from another file
-		- init.py for defining a folder as a module
+	- init.py for defining a folder as a module
 ###### 8. Inheritance
 ###### 9. Exception Handling
