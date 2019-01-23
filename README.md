@@ -1,1 +1,1 @@
-# python-intro
+# Python basics tutorial
